@@ -1,0 +1,79 @@
+[{
+    "id": 1,
+    "name": "Dolphin",
+    "info": "https://en.wikipedia.org/wiki/Dolphin"
+},
+
+{
+    "id": 2,
+    "name": "Seal",
+    "info": "https://en.wikipedia.org/wiki/Pinniped"
+},
+
+{
+    "id": 3,
+    "name": "Otter",
+    "info": "https://en.wikipedia.org/wiki/Otter"
+},
+{
+    "id": 4,
+    "name": "Frog",
+    "info": "https://en.wikipedia.org/wiki/Frog"
+},
+{
+    "id": 5,
+    "name": "Whale",
+    "info": "https://en.wikipedia.org/wiki/Whale"
+},
+{
+    "id": 6,
+    "name": "Manatee",
+    "info": "https://en.wikipedia.org/wiki/Manatee"
+},
+{
+    "id": 7,
+    "name": "Sea Lion",
+    "info": "https://en.wikipedia.org/wiki/Sea_lion"
+},
+{
+    "id": 8,
+    "name": "Walrus",
+    "info": "https://en.wikipedia.org/wiki/Walrus"
+},
+{
+    "id": 9,
+    "name": "Crocodile",
+    "info": "https://en.wikipedia.org/wiki/Crocodile"
+},
+{
+    "id": 10,
+    "name": "Polar Bear",
+    "info": "https://en.wikipedia.org/wiki/Polar_bear"
+},
+{
+    "id": 11,
+    "name": "Hippopotamus",
+    "info": "https://en.wikipedia.org/wiki/Hippopotamus"
+},
+{
+    "id": 12,
+    "name": "Flamingo",
+    "info": "https://en.wikipedia.org/wiki/Flamingo"
+},
+{
+    "id": 13,
+    "name": "Penguin",
+    "info": "https://en.wikipedia.org/wiki/Penguin"
+},
+{
+    "id": 14,
+    "name": "Seagull",
+    "info": "https://en.wikipedia.org/wiki/Gull"
+},
+{
+    "id": 15,
+    "name": "Swan",
+    "info": "https://en.wikipedia.org/wiki/Swan"
+}
+
+]

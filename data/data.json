@@ -1,0 +1,35 @@
+[{
+        "id": 1,
+        "name": "Dog",
+        "desc": "Interesting fact Mwiti",
+        "url": "https://cdn.britannica.com/s:700x500/55/174255-050-526314B6/brown-Guernsey-cow.jpg",
+        "sound": "../assets/sounds/example.mp3",
+        "info": "https://en.wikipedia.org/wiki/Dog"
+    },
+
+    {
+        "id": 2,
+        "name": "Goat",
+        "desc": "Interesting fact Andrew",
+        "url": "../assets/images/dog.p",
+        "sound": "../assets/sounds/example2.mp3",
+        "info": "https://en.wikipedia.org/wiki/Goat"
+    },
+
+    {
+        "id": 3,
+        "name": "Cat",
+        "desc": "Interesting fact Ian",
+        "url": "https://www.thesprucepets.com/thmb/W5tVnELZ4HwxQtq2WxuaB8ecxiM=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/portrait-if-a-spitz-pomeranian_t20_v3o29E-5ae9bbdca18d9e0037d95983.jpg",
+        "sound": "../assets/sounds/example3.mp3",
+        "info": "https://en.wikipedia.org/wiki/Chicken"
+    },
+    {
+        "id": 4,
+        "name": "Chicken",
+        "desc": "Interesting fact winner",
+        "sound": "https://cdns-preview-7.dzcdn.net/stream/c-7a3b6b211ff8d0da247dc27c546b766d-7.mp3",
+        "info": "https://en.wikipedia.org/wiki/Donkey"
+    }
+
+]

@@ -1,0 +1,114 @@
+[{
+    "id": 1,
+    "name": "Elephant",
+    "info": "https://en.wikipedia.org/wiki/Elephant"
+},
+
+{
+    "id": 2,
+    "name": "Deer",
+    "info": "https://en.wikipedia.org/wiki/Deer"
+},
+
+{
+    "id": 3,
+    "name": "Lion",
+    "info": "https://en.wikipedia.org/wiki/Lion"
+},
+{
+    "id": 4,
+    "name": "Tiger",
+    "info": "https://en.wikipedia.org/wiki/Tiger"
+},
+{
+    "id": 5,
+    "name": "Fox",
+    "info": "https://en.wikipedia.org/wiki/Fox"
+},
+{
+    "id": 6,
+    "name": "Rhinoceros",
+    "info": "https://en.wikipedia.org/wiki/Rhinoceros"
+},
+{
+    "id": 7,
+    "name": "Gorilla",
+    "info": "https://en.wikipedia.org/wiki/Gorilla"
+},
+{
+    "id": 8,
+    "name": "Kangaroo",
+    "info": "https://en.wikipedia.org/wiki/Kangaroo"
+},
+{
+    "id": 9,
+    "name": "Giraffe",
+    "info": "https://en.wikipedia.org/wiki/Giraffe"
+},
+{
+    "id": 10,
+    "name": "Buffalo",
+    "info": "https://en.wikipedia.org/wiki/African_buffalo"
+},
+{
+    "id": 11,
+    "name": "Bat",
+    "info": "https://en.wikipedia.org/wiki/Bat"
+},
+{
+    "id": 12,
+    "name": "Hippopotamus",
+    "info": "https://en.wikipedia.org/wiki/Hippopotamus"
+},
+{
+    "id": 13,
+    "name": "Rabbit",
+    "info": "https://en.wikipedia.org/wiki/Rabbit"
+},
+{
+    "id": 14,
+    "name": "Bear",
+    "info": "https://en.wikipedia.org/wiki/Rabbit"
+},
+{
+    "id": 15,
+    "name": "Panda",
+    "info": "https://en.wikipedia.org/wiki/Panda"
+},
+{
+    "id": 16,
+    "name": "Zebra",
+    "info": "https://en.wikipedia.org/wiki/Zebra"
+},
+{
+    "id": 17,
+    "name": "Warthog",
+    "info": "https://en.wikipedia.org/wiki/Warthog"
+},
+{
+    "id": 18,
+    "name": "Hyena",
+    "info": "https://en.wikipedia.org/wiki/Hyena"
+},
+{
+    "id": 19,
+    "name": "Leopard",
+    "info": "https://en.wikipedia.org/wiki/Leopard"
+},
+{
+    "id": 20,
+    "name": "Raccoon",
+    "info": "https://en.wikipedia.org/wiki/Raccoon"
+},
+{
+    "id": 21,
+    "name": "Monkey",
+    "info": "https://en.wikipedia.org/wiki/Monkey"
+},
+{
+    "id": 22,
+    "name": "Wolf",
+    "info": "https://en.wikipedia.org/wiki/Wolf"
+}
+
+]

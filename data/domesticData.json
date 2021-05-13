@@ -1,0 +1,74 @@
+[{
+    "id": 1,
+    "name": "Dog",
+    "info": "https://en.wikipedia.org/wiki/Dog"
+},
+
+{
+    "id": 2,
+    "name": "Goat",
+    "info": "https://en.wikipedia.org/wiki/Goat"
+},
+
+{
+    "id": 3,
+    "name": "Cat",
+    "info": "https://en.wikipedia.org/wiki/Cat"
+},
+{
+    "id": 4,
+    "name": "Chicken",
+    "info": "https://en.wikipedia.org/wiki/Chicken"
+},
+{
+    "id": 5,
+    "name": "Camel",
+    "info": "https://en.wikipedia.org/wiki/Camel"
+},
+{
+    "id": 6,
+    "name": "Cow",
+    "info": "https://en.wikipedia.org/wiki/Cow"
+},
+{
+    "id": 7,
+    "name": "Donkey",
+    "info": "https://en.wikipedia.org/wiki/Donkey"
+},
+{
+    "id": 8,
+    "name": "Duck",
+    "info": "https://en.wikipedia.org/wiki/Duck"
+},
+{
+    "id": 9,
+    "name": "Goose",
+    "info": "https://en.wikipedia.org/wiki/Goose"
+},
+{
+    "id": 10,
+    "name": "Horse",
+    "info": "https://en.wikipedia.org/wiki/Horse"
+},
+{
+    "id": 11,
+    "name": "Llama",
+    "info": "https://en.wikipedia.org/wiki/Llama"
+},
+{
+    "id": 12,
+    "name": "Pig",
+    "info": "https://en.wikipedia.org/wiki/Pig"
+},
+{
+    "id": 13,
+    "name": "Sheep",
+    "info": "https://en.wikipedia.org/wiki/Sheep"
+},
+{
+    "id": 14,
+    "name": "Turkey",
+    "info": "https://en.wikipedia.org/wiki/Turkey_(bird)"
+}
+
+]

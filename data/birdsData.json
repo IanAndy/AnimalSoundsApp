@@ -1,0 +1,124 @@
+[{
+    "id": 1,
+    "name": "Cardinal",
+    "info": "https://en.wikipedia.org/wiki/Cardinal_(bird)"
+},
+
+{
+    "id": 2,
+    "name": "Mockingbird",
+    "info": "https://en.wikipedia.org/wiki/Mockingbird"
+},
+
+{
+    "id": 3,
+    "name": "Goose",
+    "info": "https://en.wikipedia.org/wiki/Goose"
+},
+{
+    "id": 4,
+    "name": "Seagull",
+    "info": "https://en.wikipedia.org/wiki/Seagull"
+},
+{
+    "id": 5,
+    "name": "Robin",
+    "info": "https://en.wikipedia.org/wiki/American_robin"
+},
+{
+    "id": 6,
+    "name": "Sparrow",
+    "info": "https://en.wikipedia.org/wiki/House_sparrow"
+},
+{
+    "id": 7,
+    "name": "Dove",
+    "info": "https://en.wikipedia.org/wiki/Dove"
+},
+{
+    "id": 8,
+    "name": "Hummingbird",
+    "info": "https://en.wikipedia.org/wiki/Hummingbird"
+},
+{
+    "id": 9,
+    "name": "Woodpecker",
+    "info": "https://en.wikipedia.org/wiki/Woodpecker"
+},
+{
+    "id": 10,
+    "name": "Crow",
+    "info": "https://en.wikipedia.org/wiki/American_crow"
+},
+{
+    "id": 11,
+    "name": "Owl",
+    "info": "https://en.wikipedia.org/wiki/Owl"
+},
+{
+    "id": 12,
+    "name": "Eagle",
+    "info": "https://en.wikipedia.org/wiki/Eagle"
+},
+{
+    "id": 13,
+    "name": "Vulture",
+    "info": "https://en.wikipedia.org/wiki/Vulture"
+},
+{
+    "id": 14,
+    "name": "Hawk",
+    "info": "https://en.wikipedia.org/wiki/Hawk"
+},
+{
+    "id": 15,
+    "name": "Ostrich",
+    "info": "https://en.wikipedia.org/wiki/Ostrich"
+},
+{
+    "id": 16,
+    "name": "Flamingo",
+    "info": "https://en.wikipedia.org/wiki/Flamingo"
+},
+{
+    "id": 17,
+    "name": "Toucan",
+    "info": "https://en.wikipedia.org/wiki/Toucan"
+},
+{
+    "id": 18,
+    "name": "Kingfisher",
+    "info": "https://en.wikipedia.org/wiki/Kingfisher"
+},
+{
+    "id": 19,
+    "name": "Penguin",
+    "info": "https://en.wikipedia.org/wiki/Penguin"
+},
+{
+    "id": 20,
+    "name": "Peafowl/Peacock",
+    "info": "https://en.wikipedia.org/wiki/Peafowl"
+},
+{
+    "id": 21,
+    "name": "Duck",
+    "info": "https://en.wikipedia.org/wiki/Duck"
+},
+{
+    "id": 22,
+    "name": "Swan",
+    "info": "https://en.wikipedia.org/wiki/Swan"
+},
+{
+    "id": 23,
+    "name": "Turkey",
+    "info": "https://en.wikipedia.org/wiki/Turkey_(bird)"
+},
+{
+    "id": 24,
+    "name": "Macaw",
+    "info": "https://en.wikipedia.org/wiki/Macaw"
+}
+
+]
